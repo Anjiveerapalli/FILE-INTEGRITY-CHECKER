@@ -68,3 +68,6 @@ Monitor Changes (check)
 ->Python
 
 ->Hashlib
+
+# OUTPUT:
+![Image](https://github.com/user-attachments/assets/11685e1a-29c0-426e-b81f-87ff038e7dcb)
